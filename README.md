@@ -27,7 +27,7 @@ One of the key benefits of Diacare is its ability to provide patients with perso
 
 Diacare is a powerful tool for diabetic patients, allowing them to take control of their condition and make informed decisions about their health. With its user-friendly interface and personalized recommendations, Diacare is an excellent example of how technology can be used to improve patient outcomes and quality of life.
 
-### Sample Feature
+### Feature Sample
 
 #### Alarm
 
@@ -35,32 +35,96 @@ The alarm feature in Diacare is designed to help diabetic patients stay on track
 
 This feature is particularly useful for patients who may have a busy schedule or who have trouble remembering to take their medication at the same time every day. By setting reminders in Diacare, patients can ensure that they never miss a dose and stay on track with their treatment plan.
 
+#### Education
+
+The education feature in Diacare is designed to provide diabetic patients with information and resources to help them better understand their condition and how to manage it. This feature includes a variety of educational materials, such as articles, videos, and infographics, that cover topics like diet and exercise, medication management, blood sugar monitoring, and more.
+
 #### Screenshot
 
-<div align="top">
+<div align="center">
     <table>
         <tr>
             <td>
                 <div align="center">
-                    <img src="assets/diacare.alarm.jpg" width="120" />
+                    <img src="assets/diacare.alarm.jpg" width="150" />
                     <br/>
-                    <p>Alarm Feature</p>
+                    <h4>Alarm Feature</h4>
                 </div>
             </td>
             <td>
             <div align="center">
-                    <img src="assets/diacare.home.jpg" width="120" />
+                    <img src="assets/diacare.home.jpg" width="150" />
                     <br/>
-                    <p>Home Page</p>
+                    <h4>Home Page</h4>
                 </div>
             </td>
             <td>
             <div align="center">
-                    <img src="assets/diacare.landing.jpg" width="120" />
+                    <img src="assets/diacare.landing.jpg" width="150" />
                     <br/>
-                    <p>Login Page</p>
+                    <h4>Login Page</h4>
                 </div>
             </td>
         </tr>
     </table>
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Prediaducate
+
+<a name="prediaducate"/>
+
+Prediaducate is a React website designed to help users self-diagnose and prevent diabetes. With Prediaducate, users can take a quick quiz to assess their risk for diabetes and receive personalized recommendations for preventing the condition.
+
+The website features an intuitive user interface that allows users to input their data quickly and easily. The quiz is based on a series of questions related to factors like age, weight, exercise habits, and family history of diabetes. Based on the user's responses, the website generates a personalized risk assessment score and provides recommendations for lifestyle changes that can help prevent diabetes.
+
+### Feature Sample
+
+#### Weight Calculator
+
+The weight calculator feature on Prediaducate is designed to help users determine their daily calorie intake based on their weight goals. By inputting their current weight and desired weight, users can calculate the daily caloric intake that is necessary to achieve their weight loss or maintenance goals.
+
+The weight calculator takes into account the user's age, gender, height, and activity level to generate a personalized calorie recommendation. Users can adjust their activity level and weight loss goals to see how it affects their daily caloric intake.
+
+#### Meal Planner
+
+The meal planner feature on Prediaducate is designed to help users plan healthy meals that are tailored to their individual needs and preferences. Users can input their dietary restrictions, food preferences, and calorie goals to generate a personalized meal plan for the week.
+
+The meal planner provides users with a variety of healthy recipes that are low in calories and high in nutrients, making it easy for them to eat well and stay on track with their health goals. Users can customize their meal plans by selecting the recipes they want to use, adjusting portion sizes, and swapping out ingredients to fit their dietary needs.
+
+#### Screenshot
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/prediaducate.calculator.jpg" height="150" />
+                    <br/>
+                    <h4>Weight Calculator</h4>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/prediaducate.home.jpg" height="150" />
+                    <br/>
+                    <h4>Home Page</h4>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/prediaducate.landing.jpg" height="150" />
+                    <br/>
+                    <h4>Login Page</h4>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
