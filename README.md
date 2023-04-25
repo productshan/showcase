@@ -37,20 +37,20 @@ This feature is particularly useful for patients who may have a busy schedule or
 
 #### Screenshot
 
-<div align="center">
+<p align="center">
     <div align="center">
-        <img src="assets/diacare.alarm.jpg" height="120" />
+        <img src="assets/diacare.alarm.jpg" width="120" />
         <br/>
         <p>Alarm Feature</p>
     </div>
     <div align="center">
-        <img src="assets/diacare.home.jpg" height="120" />
+        <img src="assets/diacare.home.jpg" width="120" />
         <br/>
         <p>Home Page</p>
     </div>
     <div align="center">
-        <img src="assets/diacare.landing.jpg" height="120" />
+        <img src="assets/diacare.landing.jpg" width="120" />
         <br/>
         <p>Login Page</p>
     </div>
-</div>
+</p>
