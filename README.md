@@ -18,13 +18,17 @@
   </ol>
 </details>
 
-##Diacare Diacare is a React Native app designed to help diabetic patients manage their condition. With Diacare, patients can easily track their blood sugar levels, monitor their medication intake, and keep track of their diet and exercise habits. The app features an intuitive user interface that allows patients to input their data quickly and easily.
+## Diacare
+
+Diacare is a React Native app designed to help diabetic patients manage their condition. With Diacare, patients can easily track their blood sugar levels, monitor their medication intake, and keep track of their diet and exercise habits. The app features an intuitive user interface that allows patients to input their data quickly and easily.
 
 One of the key benefits of Diacare is its ability to provide patients with personalized feedback and recommendations based on their data. By analyzing the patient's blood sugar levels and medication usage, the app can provide suggestions for adjusting dosages or changing medications if necessary. The app also includes a comprehensive database of diabetic-friendly recipes, allowing patients to plan their meals and snacks while keeping their blood sugar levels in check.
 
 Diacare is a powerful tool for diabetic patients, allowing them to take control of their condition and make informed decisions about their health. With its user-friendly interface and personalized recommendations, Diacare is an excellent example of how technology can be used to improve patient outcomes and quality of life.
 
-###Sample Feature ####Alarm
+### Sample Feature
+
+#### Alarm
 
 <div align="center">
     <img src="assets/diacare.alarm.jpg" />
