@@ -100,7 +100,7 @@ The meal planner provides users with a variety of healthy recipes that are low i
         <tr>
             <td>
                 <div align="center">
-                    <img src="assets/prediaducate.calculator.jpg" height="150" />
+                    <img src="assets/prediaducate.calculator.png" height="150" />
                     <br/>
                     <h4>Weight Calculator</h4>
                 </div>
@@ -109,7 +109,7 @@ The meal planner provides users with a variety of healthy recipes that are low i
         <tr>
             <td>
                 <div align="center">
-                    <img src="assets/prediaducate.home.jpg" height="150" />
+                    <img src="assets/prediaducate.home.png" height="150" />
                     <br/>
                     <h4>Home Page</h4>
                 </div>
@@ -118,7 +118,7 @@ The meal planner provides users with a variety of healthy recipes that are low i
         <tr>
             <td>
                 <div align="center">
-                    <img src="assets/prediaducate.landing.jpg" height="150" />
+                    <img src="assets/prediaducate.landing.png" height="150" />
                     <br/>
                     <h4>Login Page</h4>
                 </div>
