@@ -39,7 +39,7 @@ This feature is particularly useful for patients who may have a busy schedule or
 
 The education feature in Diacare is designed to provide diabetic patients with information and resources to help them better understand their condition and how to manage it. This feature includes a variety of educational materials, such as articles, videos, and infographics, that cover topics like diet and exercise, medication management, blood sugar monitoring, and more.
 
-#### Screenshot
+### Screenshot
 
 <div align="center">
     <table>
@@ -93,7 +93,7 @@ The meal planner feature on Prediaducate is designed to help users plan healthy 
 
 The meal planner provides users with a variety of healthy recipes that are low in calories and high in nutrients, making it easy for them to eat well and stay on track with their health goals. Users can customize their meal plans by selecting the recipes they want to use, adjusting portion sizes, and swapping out ingredients to fit their dietary needs.
 
-#### Screenshot
+### Screenshot
 
 <div align="center">
     <table>
@@ -120,7 +120,57 @@ The meal planner provides users with a variety of healthy recipes that are low i
                 <div align="center">
                     <img src="assets/prediaducate.landing.png" width="400" />
                     <br/>
-                    <h4>Login Page</h4>
+                    <h4>Landing Page</h4>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Epedial
+
+<a name="epedial" />
+
+Epedial is an Android app that has been specifically designed to assist nurses in maintaining patient records and diagnosing illnesses in a hospital setting. With its intuitive interface, the app allows nurses to easily input and access patient data in real-time.
+
+Epedial includes a range of useful features that make it easier for nurses to manage patient care. The app allows nurses to track vital signs, medical history, medications, and other relevant patient information, all in one place. This enables nurses to quickly identify any changes or concerns in a patient's condition, and to take appropriate action if needed.
+
+### Feature Sample
+
+#### Input Patient Data
+
+The patient data input feature in Epedial is a key component of the app's ability to help nurses maintain accurate and up-to-date patient records. With this feature, nurses can easily input and update patient data such as medical history, vital signs, medications, allergies, and other important information.
+
+#### Early Diagnose
+
+Early diagnosis is a critical component of effective patient care, and Epedial includes features that help nurses diagnose illnesses more quickly and accurately. The app provides a range of diagnostic options based on a patient's symptoms, medical history, and other relevant data, helping nurses to identify potential issues before they become more serious.
+
+### Screenshot
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/epedial.form.jpg" width="150" />
+                    <br/>
+                    <h4>Patient Form</h4>
+                </div>
+            </td>
+            <td>
+            <div align="center">
+                    <img src="assets/epedial.home.jpg" width="150" />
+                    <br/>
+                    <h4>Home Page</h4>
+                </div>
+            </td>
+            <td>
+            <div align="center">
+                    <img src="assets/epdial.materi.jpg" width="150" />
+                    <br/>
+                    <h4>Early Diagnose</h4>
                 </div>
             </td>
         </tr>
