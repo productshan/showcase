@@ -15,6 +15,7 @@
     <li><a href="#epedial">Epedial</a></li>
     <li><a href="#prediaducate">Prediaducate</a></li>
     <li><a href="#cnn-lstm">Forecasting Stock using CNN-LSTM</a></li>
+    <li><a href="#closing">Overall</a></li>
   </ol>
 </details>
 
@@ -27,7 +28,7 @@ One of the key benefits of Diacare is its ability to provide patients with perso
 
 Diacare is a powerful tool for diabetic patients, allowing them to take control of their condition and make informed decisions about their health. With its user-friendly interface and personalized recommendations, Diacare is an excellent example of how technology can be used to improve patient outcomes and quality of life.
 
-### Feature Sample
+### Some Feature
 
 #### Alarm
 
@@ -79,7 +80,7 @@ Prediaducate is a React website designed to help users self-diagnose and prevent
 
 The website features an intuitive user interface that allows users to input their data quickly and easily. The quiz is based on a series of questions related to factors like age, weight, exercise habits, and family history of diabetes. Based on the user's responses, the website generates a personalized risk assessment score and provides recommendations for lifestyle changes that can help prevent diabetes.
 
-### Feature Sample
+### Some Feature
 
 #### Weight Calculator
 
@@ -137,7 +138,7 @@ Epedial is an Android app that has been specifically designed to assist nurses i
 
 Epedial includes a range of useful features that make it easier for nurses to manage patient care. The app allows nurses to track vital signs, medical history, medications, and other relevant patient information, all in one place. This enables nurses to quickly identify any changes or concerns in a patient's condition, and to take appropriate action if needed.
 
-### Feature Sample
+### Some Feature
 
 #### Input Patient Data
 
@@ -178,3 +179,50 @@ Early diagnosis is a critical component of effective patient care, and Epedial i
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Stock Forecast with CNN-LSTM
+
+<a name="cnn-lstm" />
+
+The website for forecasting stock using CNN-LSTM that is built by the React framework is a powerful tool that enables investors to make informed decisions about their stock investments. What makes this website unique is its use of advanced algorithms like Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) to analyze historical stock data and make accurate predictions about future stock prices.
+
+Built on the React framework, this website offers a dynamic and interactive user experience. Users can input data on specific stocks and receive predictions on future price movements, as well as other relevant metrics like volatility and trading volume. The website also includes a range of charts and graphs to help users visualize stock data and trends over time.
+
+### Feature
+
+#### Forecasting
+
+Stock forecasting using CNN-LSTM is an advanced analytics technique that is used to predict future stock prices based on historical data. CNN-LSTM stands for Convolutional Neural Network-Long Short-Term Memory, which are two types of artificial neural networks that are used in tandem to analyze historical stock data.
+
+The Convolutional Neural Network (CNN) algorithm is typically used for image recognition and pattern detection. In the case of stock forecasting, it is used to identify patterns and trends in historical stock data. The Long Short-Term Memory (LSTM) algorithm is used to model the time series data and predict future values based on the identified patterns.
+
+### Screenshot
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/forecast-cnn-lstm.home.png" width="400" />
+                    <br/>
+                    <h4>Home</h4>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="assets/forecast-cnn-lstm.result.png" width="400" />
+                    <br/>
+                    <h4>Result</h4>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Closing
+
+In conclusion, I have worked on many projects over the past 4 years and have gained extensive experience in project development using React, React Native, SQL and NoSQL databases, and ExpressJS. Unfortunately, I am not able to share all of these projects due to client privacy and confidentiality. Nonetheless, I have learned valuable lessons from each project, and my passion for collaborating with teams has been a driving force behind my success. I am excited to continue working with new teams and contribute to innovative projects in the future. Thank you for considering me for any opportunities that may arise.
